@@ -157,28 +157,34 @@
         "url":"https://github.com/vibhav16/WYB"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"P2P FIle Sharing",
+        "category":"Networks project",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/vibhav16/p2p"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"NHL INFORMATION RETRIEVAL SYSTEM ",
+        "category":"Website I built for comlex queries",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/vibhav16/DBMS-2019"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Text-messenger-and-File-transfer",
+        "category":"Local Text messenger and file transfer on local network without internet",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/vibhav16/Text-messenger-and-File-transfer"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Metro Project",
+        "category":"C language project",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://github.com/vibhav16/Metro-Project"
+      },
+      {
+        "title":"Chat Application",
+        "category":"Java project",
+        "image":"chat.jpg",
+        "url":"https://github.com/vibhav16/CHAT-APPLICATION"
       }
     ]
   },
