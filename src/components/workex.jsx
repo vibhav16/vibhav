@@ -15,6 +15,21 @@ export default class Workex extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>STREAMLINE HEALTHCARE SOLUTIONS, US <span>Sep 2020 - Dec 2020</span></h2>
+                        <ul>
+                            <li><b>Software Engineer Intern</b></li>
+                            <li>Responsible for researching and programming solutions, as well as assisting with building modules of software application SmartCare as per the needs of customer. Contribute to the deployment of various Environment Change Requests (ECRs).</li>
+                            <li>Work on software application using ASP.NET, C#, JavaScript, Data Query, UI and SQL.</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
